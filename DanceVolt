@@ -1,0 +1,5 @@
+This project is a smart, energy-harvesting dance mat that generates electricity using piezoelectric sensors embedded beneath its surface.
+When someone steps or dances on the mat, the pressure from their movements is converted into electrical energy. 
+The generated energy is then rectified, regulated, and either stored in a rechargeable battery or used to power small electronic devices.
+An Arduino Uno microcontroller is used to measure the voltage output from the sensors and display it in real-time on an LCD screen.
+The project is designed to promote sustainable energy solutions through interactive and engaging technology.
